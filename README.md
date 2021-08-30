@@ -1,4 +1,4 @@
-# devhouse_npm
+# devhouse test task 1/2
 
 ## Project setup
 ```
